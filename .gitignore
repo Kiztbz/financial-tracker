@@ -3,3 +3,4 @@
 *.exe
 *.log
 ./build/financial_tracker
+.vscode/
